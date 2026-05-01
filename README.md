@@ -29,3 +29,4 @@ The injection happens in stages:
 - Restore the original bytes we stomped
 - Clean up the trampoline
 
+![Module Stomping Diagram](image.png)
